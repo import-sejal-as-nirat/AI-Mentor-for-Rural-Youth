@@ -1,0 +1,8 @@
+{
+  "name": "ai-mentor-for-youth",
+  "version": "1.0.0",
+  "description": "AI Career Mentor for Rural Youth in India",
+  "main": "server.js",
+  "author": "DiशाBot",
+  "license": "MIT"
+}
